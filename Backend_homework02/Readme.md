@@ -1,4 +1,4 @@
-###SOLİD nedir ? Kısa kısa SOLİD prensiplerini kendi yorumlarınızla açıklayınız.
+### SOLİD nedir ? Kısa kısa SOLİD prensiplerini kendi yorumlarınızla açıklayınız.
 **Solid Prensipleri**,geliştirilen yazılımın esnek ve geliştirilmeye uygun olması için geliştirilen kurallar bütünüdür.  “Spagetti code “ dediğimiz karmaşık kodlar yerine “Clean Code” yazmamızı  sağlar  ve  en önemlisi  geliştirilen yazılımın gelecekte gereksinimlere kolayca adapte olmasını sağlar.
 Dünya standartlarında yazılım geliştirmemize olanak sağlayan bu prensipleri 5 ana başlıkta ele alabiliriz.
 - **S**ingle Responsibility Principle
